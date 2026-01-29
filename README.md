@@ -10,6 +10,9 @@
 
 *DURATION*: 4 WEEKS
 
+*MENTOR*: NEELA SANTOSH
+
+
 Description
 
 This project demonstrates automated report generation using Python by reading and analyzing data from a CSV file and creating a formatted PDF report. The dataset used in this task is 50_Startups.csv, which contains financial information related to startup companies, including their profit values. The goal of this task is to perform basic data analysis and present the results in a professional PDF format.
